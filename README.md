@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, my name is Hasan
+#### Full stack developer.
 
-<!--
-**mhfuad/mhfuad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Full-stack developers passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with Vue.js, React.js, Laravel and WordPress.
 
-Here are some ideas to get you started:
+Skills: Java / Spring boot / Node / Laravel / VUE JS / REACT / Mysql / PostgreSql / MySql / MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MARN stack proect 
+- 🌱 I’m currently learning GraphQl 
+- 👯 I’m looking to collaborate on Large scale project 
+- 💬 Ask me about web deb development related things. 
+
+
+
+
